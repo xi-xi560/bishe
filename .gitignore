@@ -1,0 +1,21 @@
+# Big regenerated outputs (do NOT commit)
+outputs/
+
+# If you ever copy data into this repo, ignore it
+data/
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
